@@ -1,0 +1,2 @@
+# MagazineNavbar
+Navbar and buttons 
