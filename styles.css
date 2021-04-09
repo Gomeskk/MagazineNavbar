@@ -67,7 +67,6 @@ header ul
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: barca;
 }
 
 header ul li
@@ -124,6 +123,7 @@ header.sticky ul li a
   align-items: center;
   opacity: 1;
   z-index: 3;
+  text-align: center;
 }
 
 .buttons.hide {
@@ -137,12 +137,11 @@ header.sticky ul li a
 
 .transparent_btn {
 	display: inline-block;
-	padding: 0px 180px;
 	color: rgb(0, 0, 0);
 	border: 1px solid rgb(0, 0, 0);
 	text-decoration: none;
 	font-size: 50px;
-  font-family: barca;
+    font-family: barca;
 	line-height: 100%;
 	background-color: rgba(255, 255, 255, 0);
 	-webkit-border-radius: 4px;
@@ -152,6 +151,6 @@ header.sticky ul li a
 	-moz-transition: background-color 300ms ease;
 	transition: background-color 300ms ease;
 	cursor: pointer;
-  top: 0;
-  width: 50%;
+    top: 0;
+    width: 100%;
 }
