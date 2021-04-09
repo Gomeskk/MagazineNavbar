@@ -30,3 +30,14 @@
 
 </body>
 </html>
+
+<script>
+  //Sticky buttons//
+  window.addEventListener("scroll", function(){
+    var header = document.querySelector("header");
+    var buttons = document.querySelector(".buttons")
+    buttons.classList.toggle("sticky", window.scrollY > 0)
+    buttons.classList.toggle("hide", window.scrollY > 42)
+    header.classList.toggle("sticky", window.scrollY > 0)
+  })
+</script>
