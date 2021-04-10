@@ -199,8 +199,11 @@ header.sticky ul li a
 /**************************
 *    images
 **************************/
-.h1 {
+
+.text h1 {
+  left: 50px;
+  top: 100px;
   font-size: 70px;
   font-family: barca;
-  color: ;
+  color: rgb(71, 71, 71);
 }
