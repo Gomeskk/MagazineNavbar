@@ -196,6 +196,14 @@ header.sticky ul li a
   font-family: barca;
 }
 
+.home .carousel-control-next{
+  right: -90px;
+}
+
+.home .carousel-control-prev{
+  left: -90px;
+}
+
 /**************************
 *    images
 **************************/
