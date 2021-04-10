@@ -194,6 +194,7 @@ header.sticky ul li a
   font-size: 80px;
   color: white;
   font-family: barca;
+  background-position: center;
 }
 
 
@@ -231,10 +232,11 @@ header.sticky ul li a
   top: 0;
   left: 0;
   height: 100%;
+  margin-left: 40px;
 }
 
 .container.Lorem.box {
-  clip-path: polygon(0 0, 79% 0, 79% 100%, 0% 100%);
+  clip-path: polygon(30% 0, 79% 0, 79% 100%, 30% 100%);
   z-index: 2;
 }
 
@@ -272,7 +274,7 @@ header.sticky ul li a
 }
 
 .container.ipsum .box {
-  clip-path: polygon(0 0, 96% 0, 96% 60%, 0 60%);
+  clip-path: polygon(30% 0, 96% 0, 96% 60%, 30% 60%);
 }
 
 .container.ipsum .box img {
