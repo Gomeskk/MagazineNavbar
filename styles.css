@@ -158,10 +158,6 @@ header.sticky ul li a
 /**************************
 *    carousel
 **************************/
-.h1{
-  font-family: barca;
-  
-}
 
 .home .carousel-item{
   top: 48px;
@@ -188,7 +184,13 @@ header.sticky ul li a
   opacity: 1;
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 70%;
   transform: translate(-50%,-50%);
   text-align: center;
+}
+
+.home .carousel-item h1{
+  font-size: 80px;
+  color: white;
+  font-family: barca;
 }
