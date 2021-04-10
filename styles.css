@@ -179,18 +179,47 @@ header.sticky ul li a
   z-index: -1;
 }
 
-.home .carousel-item .container {
-  background: rgba(134, 128, 128, 0.5);
-  opacity: 1;
-  position: absolute;
-  left: 50%;
-  top: 70%;
-  transform: translate(-50%,-50%);
-  text-align: center;
+.home .carousel-control-next, 
+.home .carousel-control-prev{
+	height: 60px;
+	width: 60px;
+	opacity: 1;
+	z-index: 3;
+	top: 50%;
+	transform: translateY(-50%);
+	border-radius: 50%;
+	transition: all 0.3s ease;
+}
+.home .carousel-control-next:hover, 
+.home .carousel-control-prev:hover{
+   box-shadow: 0 0 10px #ffffff;
+}
+.home .carousel-control-next img, 
+.home .carousel-control-prev img{
+   width: 30px;
+}
+.home .carousel-control-next{
+	right: -90px;
+}
+.home .carousel-control-prev{
+	left: -90px;
 }
 
-.home .carousel-item h1{
-  font-size: 80px;
-  color: white;
-  font-family: barca;
+/*responsive*/
+@media(max-width: 767px){
+  .home .carousel-control-next, 
+  .home .carousel-control-prev{
+  	display: none;
+  }
+  .home .carousel-indicators li{
+  	height: 60px;
+  	width: 60px;
+  }
+  .home .carousel-item h2{
+  	font-size: 45px;
+  }
+  .home .carousel-item p{
+  	font-size: 22px;
+  }
 }
+
