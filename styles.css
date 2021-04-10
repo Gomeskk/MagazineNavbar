@@ -196,14 +196,6 @@ header.sticky ul li a
   font-family: barca;
 }
 
-.home .carousel-control-next{
-  right: -90px;
-}
-
-.home .carousel-control-prev{
-  left: -90px;
-}
-
 /**************************
 *    images
 **************************/
@@ -237,4 +229,24 @@ header.sticky ul li a
   top: 0;
   left: 0;
   height: 100%;
+}
+
+.grid-container .box1 img {
+  width: 200px;
+  top: 90px;
+  left: 50px;
+  height: 100%;
+  display: grid;
+  grid-template-columns: 200px 200px;
+
+}
+
+.grid-container .box2 img {
+  width: 200px;
+  top: 90px;
+  left: 50px;
+  height: 100%;
+  display: grid;
+  grid-template-columns: 200px 200px;
+
 }
