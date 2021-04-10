@@ -248,7 +248,7 @@ header.sticky ul li a
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 80%;
   z-index: 1;
   display: flex;
   padding: 20px;
@@ -260,7 +260,7 @@ header.sticky ul li a
   transition: 0.5s;
   text-transform: uppercase;
   margin-bottom: 150px;
-  font-size: 70px;
+  font-size: 60px;
   font-family: barca;
   text-shadow: 5px 10px 4px rgba(0,0,0,.5);
 }
@@ -276,14 +276,78 @@ header.sticky ul li a
 }
 
 .container.ipsum .box img {
-  width: 550px;
+  width: 480px;
   top: 0;
   left: 0;
   height: 100%;
-  margin-left: 250px;
+  margin-left: 350px;
 }
 
 .container.ipsum .box .content h2 {
+  margin-bottom: 60px;
+  margin-left: 310px;
+  font-size: 60px;
+}
+
+.container.dolor .box img {
+  width: 700px;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+.container.dolor.box {
+  clip-path: polygon(0 0, 79% 0, 79% 100%, 0% 100%);
+  z-index: 2;
+}
+
+.container .box:hover {
+  transform: scale(1.02);
+  box-shadow: 0 25px 40px rgba(0,0,0,.5);
+}
+
+.container .box .content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80%;
+  z-index: 1;
+  display: flex;
+  padding: 20px;
+  align-items: flex-end;
+}
+
+
+.container .box .content h3 {
+  color: white;
+  transition: 0.5s;
+  text-transform: uppercase;
+  margin-bottom: 150px;
+  font-size: 60px;
+  font-family: barca;
+  text-shadow: 5px 10px 4px rgba(0,0,0,.5);
+}
+
+.container.dolor {
+  top: 1105px;
+  left: 500px;
+  position: absolute;
+}
+
+.container.dolor .box {
+  clip-path: polygon(0 0, 96% 0, 96% 60%, 0 60%);
+}
+
+.container.dolor .box img {
+  width: 480px;
+  top: 0;
+  left: 0;
+  height: 100%;
+  margin-left: 350px;
+}
+
+.container.dolor .box .content h3 {
   margin-bottom: 60px;
   margin-left: 310px;
   font-size: 60px;
