@@ -201,8 +201,8 @@ header.sticky ul li a
 **************************/
 
 .text h1 {
-  left: 50px;
-  top: 100px;
+  margin-top: 40px;
+  margin-left: 40px;
   font-size: 70px;
   font-family: barca;
   color: rgb(71, 71, 71);
