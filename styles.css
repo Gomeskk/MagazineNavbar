@@ -159,6 +159,12 @@ header.sticky ul li a
 *    carousel
 **************************/
 
+.home .carousel-item{
+  top: 48px;
+  min-height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
 
 .home .carousel-control-next, 
 .home .carousel-control-prev{
