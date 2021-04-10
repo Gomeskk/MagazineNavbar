@@ -232,21 +232,25 @@ header.sticky ul li a
 }
 
 .grid-container .box1 img {
-  width: 200px;
+  width: 400px;
   top: 90px;
   left: 50px;
   height: 100%;
   display: grid;
-  grid-template-columns: 200px 200px;
-
+  grid-template-columns: 20px 20px;
+  grid-template-rows: 20px 20px;
+  grid-auto-flow: 20px;
+  grid-auto-rows: 20px;
 }
 
 .grid-container .box2 img {
-  width: 200px;
+  width: 400px;
   top: 90px;
   left: 50px;
   height: 100%;
   display: grid;
-  grid-template-columns: 200px 200px;
-
+  grid-template-columns: 20px 20px;
+  grid-template-rows: 20px 20px;
+  grid-auto-flow: 20px;
+  grid-auto-rows: 20px;
 }
