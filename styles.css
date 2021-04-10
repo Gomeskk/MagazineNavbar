@@ -151,8 +151,8 @@ header.sticky ul li a
 	-moz-transition: background-color 300ms ease;
 	transition: background-color 300ms ease;
 	cursor: pointer;
-    top: 0;
-    width: 100%;
+  top: 0;
+  width: 100%;
 }
 
 /**************************
