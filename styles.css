@@ -611,7 +611,7 @@ header.sticky ul li a
 
 
 /*******************************
-      footer/Rodape
+       footer/Rodape
 ******************************/
 
 .footer-dark {
@@ -623,6 +623,10 @@ header.sticky ul li a
   position: relative;
 }
 
+.footer-dark img{
+  margin-top: -250px;
+  margin-left: 700px;
+}
 
 
 .footer .dark h3 {
@@ -632,18 +636,28 @@ header.sticky ul li a
   font-weight:bold;
   size:40px;
   margin-left: 200px;
-  padding: 200px 150px;
+
 
 }
 
-.icon .social1 {
- 
+.icon.social1 .box img {
+  margin-top:20px;
+  margin-bottom: 40px;
+  size:40px;
+  margin-left: 600px;
 }
 
-.icon .social2 {
- 
+.icon.social2 .box img {
+  margin-top: -200px;
+  margin-bottom: 40px;
+  size:40px;
+  margin-left: 900px;
 }
 
-.icon .social3 {
-  
+
+.icon.social3 .box img {
+  margin-top: -250px;
+  margin-bottom: 40px;
+  size: 40px;
+  margin-left: 1200px;
 }
