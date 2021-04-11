@@ -228,7 +228,7 @@ header.sticky ul li a
 }
 
 .container.Lorem .box img {
-  width: 700px;
+  width: 830px;
   top: 0;
   left: 0;
   height: 100%;
@@ -267,9 +267,11 @@ header.sticky ul li a
   text-shadow: 5px 10px 4px rgba(0,0,0,.5);
 }
 
+/*.......................................................................................................................*/
+
 .container.ipsum {
-  top: 830px;
-  left: 500px;
+  top: 826px;
+  left: 640px;
   position: absolute;
 }
 
@@ -278,11 +280,11 @@ header.sticky ul li a
 }
 
 .container.ipsum .box img {
-  width: 550px;
+  width: 450px;
   top: 0;
   left: 0;
-  height: 100%;
-  margin-left: 250px;
+  height: 450px;
+  margin-left: 240px;
 }
 
 .container.ipsum .box .content h2 {
@@ -291,8 +293,10 @@ header.sticky ul li a
   font-size: 20px;
 }
 
+/*.................................................................................................................*/
+
 .container.dolor {
-  top: 1125px;
+  top: 1122px;
   left: 650px;
   position: absolute;
 }
@@ -302,11 +306,11 @@ header.sticky ul li a
 }
 
 .container.dolor .box img {
-  width: 550px;
+  width: 450px;
   top: 0;
   left: 0;
-  height: 100%;
-  margin-left: 250px;
+  height: 450px;
+  margin-left: 240px;
 }
 
 .container.dolor .box .content h2 {
@@ -332,7 +336,7 @@ header.sticky ul li a
   top: 0;
   left: 0;
   height: 460px;
-  margin-left: 250px;
+  margin-left: 240px;
 }
 
 .container.wrapper .box .content h2 {
@@ -342,3 +346,4 @@ header.sticky ul li a
 }
 
 /*...................................................................................................................*/
+
