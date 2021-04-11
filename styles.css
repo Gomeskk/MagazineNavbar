@@ -209,6 +209,7 @@ header.sticky ul li a
   font-size: 70px;
   font-family: barca;
   color: rgb(71, 71, 71);
+  position: relative;
 }
 
 .container {
@@ -228,7 +229,7 @@ header.sticky ul li a
 }
 
 .container.Lorem .box img {
-  width: 700px;
+  width: 800px;
   top: 0;
   left: 0;
   height: 100%;
@@ -236,7 +237,7 @@ header.sticky ul li a
 }
 
 .container.Lorem .box {
-  clip-path: polygon(3% 0, 100% 0, 100% 100%, 3% 100%);
+  clip-path: polygon(3% 0, 100% 0, 100% 90%, 3% 90%);
   z-index: 2;
 }
 
@@ -268,13 +269,13 @@ header.sticky ul li a
 }
 
 .container.ipsum {
-  top: 830px;
+  top: 776px;
   left: 500px;
   position: absolute;
 }
 
 .container.ipsum .box {
-  clip-path: polygon(30% 0, 96% 0, 96% 60%, 30% 60%);
+  clip-path: polygon(45% 15%, 96% 15%, 96% 80%, 45% 80%);
 }
 
 .container.ipsum .box img {
@@ -298,7 +299,7 @@ header.sticky ul li a
 }
 
 .container.dolor .box {
-  clip-path: polygon(30% 0, 96% 0, 96% 60%, 30% 60%);
+  clip-path: polygon(45% 15%, 96% 15%, 96% 80%, 45% 80%);
 }
 
 .container.dolor .box img {
