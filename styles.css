@@ -438,11 +438,11 @@ header.sticky ul li a
   top: 0;
   left: 0;
   height: 100%;
-  margin-left: 0px;
+  margin-left: 424px;
 }
 
 .container.Lorem2 .box {
-  clip-path: polygon(3% 0, 100% 0, 100% 90%, 3% 90%);
+  clip-path: polygon(35% 0, 100% 0, 100% 90%, 35% 90%);
   z-index: 2;
 }
 
@@ -477,15 +477,15 @@ header.sticky ul li a
 
 .container.Lorem2 .box .content h2 {
   margin-bottom: 70px;
-  margin-left: -110px;
+  margin-left: 370px;
   font-size: 70px;
   text-align: center;
-  width: 1030px;
+  width: 930px;
 }
 
 .container.ipsum2 {
   top: 1707px;
-  left: 480px;
+  left: -356px;
   position: absolute;
 }
 
@@ -510,7 +510,7 @@ header.sticky ul li a
 
 .container.dolor2 {
   top: 1973px;
-  left: 480px;
+  left: -356px;
   position: absolute;
 }
 
