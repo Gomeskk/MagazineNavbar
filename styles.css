@@ -83,6 +83,10 @@ header ul li a
   font-size: 30px;
 }
 
+header ul li a img{
+  width: 30px;
+}
+
 .banner
 {
   position: relative;
@@ -158,7 +162,7 @@ header.sticky ul li a
 **************************/
 
 .home .carousel-item{
-  top: 48px;
+  top: 60px;
   min-height: 100vh;
   background-position: center;
   background-size: cover;
