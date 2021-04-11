@@ -196,6 +196,7 @@ header.sticky ul li a
   color: white;
   font-family: barca;
   background-position: center;
+  width: 100%;
 }
 
 
@@ -225,20 +226,25 @@ header.sticky ul li a
   position: relative;
   overflow: hidden;
   transition: 0.5s;
-  box-shadow: 0 25px 40px rgba(0,0,0,.5);
   z-index: 1;
 }
 
+.container.Lorem {
+  top: 1280px;
+  left: 22px;
+  position: absolute;
+}
+
 .container.Lorem .box img {
-  width: 840px;
+  width: 1240px;
   top: 0;
   left: 0;
   height: 100%;
-  margin-left: 0px;
+  margin-left: 0;
 }
 
 .container.Lorem .box {
-  clip-path: polygon(3% 0, 100% 0, 100% 90%, 3% 90%);
+  clip-path: polygon(0% 0%, 100% 0, 100% 90%, 0% 90%);
   z-index: 2;
 }
 
@@ -272,21 +278,21 @@ header.sticky ul li a
 }
 
 .container.Lorem .box .content h2 {
-  margin-bottom: 70px;
+  margin-bottom: 100px;
   margin-left: -110px;
   font-size: 70px;
   text-align: center;
-  width: 1030px;
+  width: 1230px;
 }
 
 .container.ipsum {
-  top: 787px;
-  left: 480px;
+  top: 1960px;
+  left: 1065px;
   position: absolute;
 }
 
 .container.ipsum .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
+  clip-path: polygon(0% 0%, 100% 0, 100% 100%, 0% 100%);
 }
 
 .container.ipsum .box img {
@@ -305,13 +311,13 @@ header.sticky ul li a
 }
 
 .container.dolor {
-  top: 1011px;
-  left: 480px;
+  top: 1280px;
+  left: 1065px;
   position: absolute;
 }
 
 .container.dolor .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
+  clip-path: polygon(0% 0%, 100% 0, 100% 100%, 0% 100%);
 }
 
 .container.dolor .box img {
@@ -330,17 +336,17 @@ header.sticky ul li a
 }
 
 .container.wrapper {
-  top: 1236px;
-  left: -360px;
+  top: 1960px;
+  left: -228px;
   position: absolute;
 }
 
 .container.wrapper .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+  clip-path: polygon(0% 0%, 100% 0, 100% 78%, 0% 78%);
 }
 
 .container.wrapper .box img {
-  width: 550px;
+  width: 650px;
   top: 0;
   left: 0;
   height: 100%;
@@ -355,13 +361,13 @@ header.sticky ul li a
 }
 
 .container.naturis {
-  top: 1238px;
-  left: 58px;
+  top: 1960px;
+  left: 460px;
   position: absolute;
 }
 
 .container.naturis .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
+  clip-path: polygon(0% 0%, 100% 0, 100% 100%, 0% 100%);
 }
 
 .container.naturis .box img {
@@ -380,13 +386,13 @@ header.sticky ul li a
 }
 
 .container.sammy {
-  top: 1238px;
-  left: 480px;
+  top: 1620px;
+  left: 1065px;
   position: absolute;
 }
 
 .container.sammy .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
+  clip-path: polygon(0% 0%, 100% 0, 100% 100%, 0% 100%);
 }
 
 .container.sammy .box img {
@@ -404,13 +410,12 @@ header.sticky ul li a
   text-align: center;
 }
 
-
 /**************************
 *    images2
 **************************/
 
 .text2 h1 {
-  margin-top: 260px;
+  margin-top: 1360px;
   margin-left: 40px;
   font-size: 70px;
   font-family: barca;
@@ -434,8 +439,14 @@ header.sticky ul li a
   z-index: 1;
 }
 
+.container.Lorem2 {
+  top: 2387px;
+  left: 0px;
+  position: absolute;
+}
+
 .container.Lorem2 .box img {
-  width: 840px;
+  width: 1140px;
   top: 0;
   left: 0;
   height: 100%;
@@ -485,7 +496,7 @@ header.sticky ul li a
 }
 
 .container.ipsum2 {
-  top: 1612px;
+  top: 2612px;
   left: -356px;
   position: absolute;
 }
@@ -510,7 +521,7 @@ header.sticky ul li a
 }
 
 .container.dolor2 {
-  top: 1835px;
+  top: 2835px;
   left: -356px;
   position: absolute;
 }
@@ -535,7 +546,7 @@ header.sticky ul li a
 }
 
 .container.wrapper2 {
-  top: 2066px;
+  top: 3066px;
   left: -356px;
   position: absolute;
 }
@@ -560,7 +571,7 @@ header.sticky ul li a
 }
 
 .container.naturis2 {
-  top: 2070px;
+  top: 3066px;
   left: 58px;
   position: absolute;
 }
@@ -585,7 +596,7 @@ header.sticky ul li a
 }
 
 .container.sammy2 {
-  top: 2070px;
+  top: 3066px;
   left: 480px;
   position: absolute;
 }
