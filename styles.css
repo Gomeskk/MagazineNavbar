@@ -280,13 +280,13 @@ header.sticky ul li a
 }
 
 .container.ipsum {
-  top: 776px;
+  top: 787px;
   left: 480px;
   position: absolute;
 }
 
 .container.ipsum .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
 }
 
 .container.ipsum .box img {
@@ -305,13 +305,13 @@ header.sticky ul li a
 }
 
 .container.dolor {
-  top: 1041px;
+  top: 1011px;
   left: 480px;
   position: absolute;
 }
 
 .container.dolor .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
 }
 
 .container.dolor .box img {
@@ -323,15 +323,15 @@ header.sticky ul li a
 }
 
 .container.dolor .box .content h2 {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   margin-left: 256px;
   font-size: 35px;
   text-align: center;
 }
 
 .container.wrapper {
-  top: 1306px;
-  left: -356px;
+  top: 1236px;
+  left: -360px;
   position: absolute;
 }
 
@@ -348,20 +348,20 @@ header.sticky ul li a
 }
 
 .container.wrapper .box .content h2 {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   margin-left: 256px;
   font-size: 35px;
   text-align: center;
 }
 
 .container.naturis {
-  top: 1306px;
+  top: 1238px;
   left: 58px;
   position: absolute;
 }
 
 .container.naturis .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
 }
 
 .container.naturis .box img {
@@ -373,20 +373,20 @@ header.sticky ul li a
 }
 
 .container.naturis .box .content h2 {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   margin-left: 256px;
   font-size: 35px;
   text-align: center;
 }
 
 .container.sammy {
-  top: 1306px;
+  top: 1238px;
   left: 480px;
   position: absolute;
 }
 
 .container.sammy .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
 }
 
 .container.sammy .box img {
@@ -398,7 +398,7 @@ header.sticky ul li a
 }
 
 .container.sammy .box .content h2 {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   margin-left: 256px;
   font-size: 35px;
   text-align: center;
