@@ -84,6 +84,7 @@ header ul li a
   letter-spacing: 2px;
   font-weight: 500px;
   transition: 0.6s;
+  font-family: barca;
 }
 
 .banner
@@ -438,11 +439,11 @@ header.sticky ul li a
   top: 0;
   left: 0;
   height: 100%;
-  margin-left: 420px;
+  margin-left: 424px;
 }
 
 .container.Lorem2 .box {
-  clip-path: polygon(3% 0, 100% 0, 100% 90%, 3% 90%);
+  clip-path: polygon(35% 0, 100% 0, 100% 90%, 35% 90%);
   z-index: 2;
 }
 
@@ -460,7 +461,7 @@ header.sticky ul li a
   z-index: 1;
   display: flex;
   padding: 20px;
-
+  align-items: flex-end;
 }
 
 .container .box .content h2 {
@@ -472,20 +473,20 @@ header.sticky ul li a
   font-family: barca;
   background: rgba(134, 128, 128, 0.5);
   width: 100%;
-  margin-left: 0px;
+  margin-left: 10px;
 }
 
 .container.Lorem2 .box .content h2 {
   margin-bottom: 70px;
-  margin-left: 400px;
+  margin-left: 370px;
   font-size: 70px;
   text-align: center;
-  width: 850px;
+  width: 930px;
 }
 
 .container.ipsum2 {
   top: 1707px;
-  left: -360px;
+  left: -356px;
   position: absolute;
 }
 
@@ -510,7 +511,7 @@ header.sticky ul li a
 
 .container.dolor2 {
   top: 1973px;
-  left: -360px;
+  left: -356px;
   position: absolute;
 }
 
