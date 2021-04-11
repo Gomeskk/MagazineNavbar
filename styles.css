@@ -280,13 +280,13 @@ header.sticky ul li a
 }
 
 .container.ipsum {
-  top: 776px;
+  top: 787px;
   left: 480px;
   position: absolute;
 }
 
 .container.ipsum .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
 }
 
 .container.ipsum .box img {
@@ -298,20 +298,20 @@ header.sticky ul li a
 }
 
 .container.ipsum .box .content h2 {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   margin-left: 256px;
   font-size: 35px;
   text-align: center;
 }
 
 .container.dolor {
-  top: 1041px;
+  top: 1011px;
   left: 480px;
   position: absolute;
 }
 
 .container.dolor .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
 }
 
 .container.dolor .box img {
@@ -323,15 +323,15 @@ header.sticky ul li a
 }
 
 .container.dolor .box .content h2 {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   margin-left: 256px;
   font-size: 35px;
   text-align: center;
 }
 
 .container.wrapper {
-  top: 1306px;
-  left: -356px;
+  top: 1236px;
+  left: -360px;
   position: absolute;
 }
 
@@ -355,13 +355,13 @@ header.sticky ul li a
 }
 
 .container.naturis {
-  top: 1306px;
+  top: 1238px;
   left: 58px;
   position: absolute;
 }
 
 .container.naturis .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
 }
 
 .container.naturis .box img {
@@ -373,20 +373,20 @@ header.sticky ul li a
 }
 
 .container.naturis .box .content h2 {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   margin-left: 256px;
   font-size: 35px;
   text-align: center;
 }
 
 .container.sammy {
-  top: 1306px;
+  top: 1238px;
   left: 480px;
   position: absolute;
 }
 
 .container.sammy .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
 }
 
 .container.sammy .box img {
@@ -398,7 +398,7 @@ header.sticky ul li a
 }
 
 .container.sammy .box .content h2 {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   margin-left: 256px;
   font-size: 35px;
   text-align: center;
@@ -410,7 +410,7 @@ header.sticky ul li a
 **************************/
 
 .text2 h1 {
-  margin-top: 280px;
+  margin-top: 260px;
   margin-left: 40px;
   font-size: 70px;
   font-family: barca;
@@ -485,13 +485,13 @@ header.sticky ul li a
 }
 
 .container.ipsum2 {
-  top: 1707px;
+  top: 1612px;
   left: -356px;
   position: absolute;
 }
 
 .container.ipsum2 .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
 }
 
 .container.ipsum2 .box img {
@@ -503,20 +503,20 @@ header.sticky ul li a
 }
 
 .container.ipsum2 .box .content h2 {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   margin-left: 256px;
   font-size: 35px;
   text-align: center;
 }
 
 .container.dolor2 {
-  top: 1973px;
+  top: 1835px;
   left: -356px;
   position: absolute;
 }
 
 .container.dolor2 .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
 }
 
 .container.dolor2 .box img {
@@ -528,14 +528,14 @@ header.sticky ul li a
 }
 
 .container.dolor2 .box .content h2 {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   margin-left: 256px;
   font-size: 35px;
   text-align: center;
 }
 
 .container.wrapper2 {
-  top: 2237px;
+  top: 2066px;
   left: -356px;
   position: absolute;
 }
@@ -560,13 +560,13 @@ header.sticky ul li a
 }
 
 .container.naturis2 {
-  top: 2237px;
+  top: 2070px;
   left: 58px;
   position: absolute;
 }
 
 .container.naturis2 .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
 }
 
 .container.naturis2 .box img {
@@ -578,20 +578,20 @@ header.sticky ul li a
 }
 
 .container.naturis2 .box .content h2 {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   margin-left: 256px;
   font-size: 35px;
   text-align: center;
 }
 
 .container.sammy2 {
-  top: 2237px;
+  top: 2070px;
   left: 480px;
   position: absolute;
 }
 
 .container.sammy2 .box {
-  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 85%, 48% 85%);
 }
 
 .container.sammy2 .box img {
@@ -603,7 +603,7 @@ header.sticky ul li a
 }
 
 .container.sammy2 .box .content h2 {
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   margin-left: 256px;
   font-size: 35px;
   text-align: center;
