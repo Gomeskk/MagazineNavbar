@@ -608,6 +608,35 @@ header.sticky ul li a
   font-size: 35px;
   text-align: center;
 }
+/*******************************
+      Podcast
+******************************/
+.LogoPodcast .box img {
+  margin-left: 1400px;
+  margin-top: -400px;
+  position: absolute;
+}
+
+.Podcasttext h1 {
+  color: rgb(255, 0, 0);
+  transition: 0.5s;
+  text-transform: uppercase;
+  margin-bottom: 110px;
+  font-size: 40px;
+  font-family: barca;
+  width: 75%;
+  margin-left: 40px;
+}
+
+.LogoGooglePodcast .box .img{
+
+  }
+
+
+
+
+
+
 
 
 /*******************************
