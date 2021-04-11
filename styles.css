@@ -649,49 +649,104 @@ header.sticky ul li a
 ******************************/
 
 .footer-dark {
-  padding:300px 0;
+  padding:200px 0;
   color: rgb(255, 255, 255);
-  background-color:#f80000;
+  background-color:#d50000;
   margin-top: 900px;
   margin-bottom: 0px;
   position: relative;
 }
 
 .footer-dark img{
-  margin-top: -250px;
-  margin-left: 700px;
+  margin-top: -280px;
+  margin-left: 770px;
+  width: 20%;
 }
 
+/**********************************
+      Logo Rollera
+**********************************/
 
-.footer .dark h3 {
+.footer .dark h1 {
   margin-top:20px;
   text-align: center;
   margin-bottom: 40px;
   font-weight:bold;
   size:40px;
   margin-left: 200px;
-
-
 }
+
+/**********************************
+           Textos
+**********************************/
+
+.footer-text2 h2 {
+  font-weight:bolder;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.footer-text3 h3 {
+  font-weight: bold;
+  text-align: center;
+}
+
+.text5 h12 {
+  margin-top: 200px;
+  margin-left: 40px;
+  font-size: 70px;
+  font-family: barca;
+  color: rgb(71, 71, 71);
+  position: relative;
+}
+
+/**********************************
+      Icone Twitter
+**********************************/
 
 .icon.social1 .box img {
-  margin-top:20px;
-  margin-bottom: 40px;
-  size:40px;
-  margin-left: 600px;
+  margin-top: -10px;
+  margin-bottom: -250px;
+  margin-left: 750px;
+  padding: 1px 1px;
+  width: 5%;
 }
+
+/**********************************
+      Icone Instagram
+**********************************/
+
 
 .icon.social2 .box img {
-  margin-top: -200px;
-  margin-bottom: 40px;
-  size:40px;
-  margin-left: 900px;
+  margin-top: -30px;
+  margin-bottom: -240px;
+  margin-left: 950px;
+  padding: 1px 1px;
+  width: 5%;
 }
 
+/**********************************
+      Icone Facebook
+**********************************/
 
 .icon.social3 .box img {
-  margin-top: -250px;
-  margin-bottom: 40px;
-  size: 40px;
-  margin-left: 1200px;
+  margin-top: -80px;
+  margin-bottom: -250px;
+  margin-left: 1150px;
+  padding: 1px 1px;
+  width: 5%;
+}
+
+/**********************************
+          CopyRights
+**********************************/
+
+.copyrig h4 {
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 0px;
+  width: 100%;
+  bottom: 0px;
+  position: absolute;
 }
