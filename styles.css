@@ -229,7 +229,7 @@ header.sticky ul li a
 }
 
 .container.Lorem .box img {
-  width: 800px;
+  width: 840px;
   top: 0;
   left: 0;
   height: 100%;
@@ -270,12 +270,12 @@ header.sticky ul li a
 
 .container.ipsum {
   top: 776px;
-  left: 500px;
+  left: 480px;
   position: absolute;
 }
 
 .container.ipsum .box {
-  clip-path: polygon(45% 15%, 96% 15%, 96% 80%, 45% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
 }
 
 .container.ipsum .box img {
@@ -293,13 +293,13 @@ header.sticky ul li a
 }
 
 .container.dolor {
-  top: 1076px;
-  left: 500px;
+  top: 1040px;
+  left: 480px;
   position: absolute;
 }
 
 .container.dolor .box {
-  clip-path: polygon(45% 15%, 96% 15%, 96% 80%, 45% 80%);
+  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
 }
 
 .container.dolor .box img {
@@ -315,3 +315,76 @@ header.sticky ul li a
   margin-left: 310px;
   font-size: 60px;
 }
+
+.container.wrapper {
+  top: 1306px;
+  left: -356px;
+  position: absolute;
+}
+
+.container.wrapper .box {
+  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+}
+
+.container.wrapper .box img {
+  width: 550px;
+  top: 0;
+  left: 0;
+  height: 100%;
+  margin-left: 250px;
+}
+
+.container.wrapper .box .content h2 {
+  margin-bottom: 60px;
+  margin-left: 310px;
+  font-size: 60px;
+}
+
+.container.naturis {
+  top: 1306px;
+  left: 58px;
+  position: absolute;
+}
+
+.container.naturis .box {
+  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+}
+
+.container.naturis .box img {
+  width: 550px;
+  top: 0;
+  left: 0;
+  height: 100%;
+  margin-left: 250px;
+}
+
+.container.naturis .box .content h2 {
+  margin-bottom: 60px;
+  margin-left: 310px;
+  font-size: 60px;
+}
+
+.container.sammy {
+  top: 1306px;
+  left: 480px;
+  position: absolute;
+}
+
+.container.sammy .box {
+  clip-path: polygon(48% 15%, 98% 15%, 98% 80%, 48% 80%);
+}
+
+.container.sammy .box img {
+  width: 550px;
+  top: 0;
+  left: 0;
+  height: 100%;
+  margin-left: 250px;
+}
+
+.container.sammy .box .content h2 {
+  margin-bottom: 60px;
+  margin-left: 310px;
+  font-size: 60px;
+}
+
