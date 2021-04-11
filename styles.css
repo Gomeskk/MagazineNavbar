@@ -613,27 +613,49 @@ header.sticky ul li a
 /*******************************
       footer/Rodape
 ******************************/
+
 .footer-dark {
   padding:300px 0;
   color: rgb(255, 255, 255);
-  background-color:#282d32;
-  margin-top: 1500px;
+  background-color:#f80000;
+  margin-top: 900px;
   margin-bottom: 0px;
+  position: relative;
 }
 
-.footer-dark h3 {
+
+
+.footer .dark h3 {
   margin-top:20px;
   text-align: center;
   margin-bottom: 40px;
   font-weight:bold;
-  font-size:40px;
+  size:40px;
+  margin-left: 200px;
+  padding: 200px 150px;
+
 }
 
-.footer-dark .copyright {
-  text-align:center;
-  padding-top:0px;
-  opacity:0.3;
-  font-size:13px;
-  margin-bottom:0px;
+.icon .social1 {
+  text-align: center;
+  margin-left: 200px;
+  display: flex;
+  padding: 200px 150px;
+  
 }
 
+.icon .social2 {
+  text-align: center;
+  margin-left: 200px;
+  display: flex;
+  padding: 200px 150px;
+
+}
+
+.icon .social3 {
+  text-align: center;
+  margin-left: 200px;
+  display: flex;
+  padding: 200px 150px;
+
+}
