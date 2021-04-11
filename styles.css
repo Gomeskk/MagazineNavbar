@@ -196,7 +196,6 @@ header.sticky ul li a
   color: white;
   font-family: barca;
   background-position: center;
-  width: 100%;
 }
 
 
@@ -220,6 +219,7 @@ header.sticky ul li a
   flex-wrap: wrap;
   cursor: pointer;
   width: fit-content;
+  display: inline-block;
 }
 
 .container .box {
@@ -289,6 +289,7 @@ header.sticky ul li a
   top: 1960px;
   left: 1065px;
   position: absolute;
+  width: 42%;
 }
 
 .container.ipsum .box {
@@ -314,6 +315,7 @@ header.sticky ul li a
   top: 1280px;
   left: 1065px;
   position: absolute;
+  width: 42%;
 }
 
 .container.dolor .box {
@@ -389,6 +391,7 @@ header.sticky ul li a
   top: 1620px;
   left: 1065px;
   position: absolute;
+  width: 42%;
 }
 
 .container.sammy .box {
@@ -499,6 +502,7 @@ header.sticky ul li a
   top: 2612px;
   left: -356px;
   position: absolute;
+  width: 42%;
 }
 
 .container.ipsum2 .box {
@@ -619,6 +623,7 @@ header.sticky ul li a
   font-size: 35px;
   text-align: center;
 }
+
 /*******************************
       Podcast
 ******************************/
@@ -640,109 +645,53 @@ header.sticky ul li a
 }
 
 /*******************************
-       Footer/Rodape
+       footer/Rodape
 ******************************/
 
 .footer-dark {
-  padding: 200px 0;
+  padding:300px 0;
   color: rgb(255, 255, 255);
-  background-color:#d50000;
+  background-color:#f80000;
   margin-top: 900px;
   margin-bottom: 0px;
   position: relative;
 }
 
 .footer-dark img{
-  margin-top: -280px;
-  margin-left: 770px;
-  width: 20%;
+  margin-top: -250px;
+  margin-left: 700px;
 }
 
-/**********************************
-      Logo Rollera
-**********************************/
 
-.footer .dark h1 {
+.footer .dark h3 {
   margin-top:20px;
   text-align: center;
   margin-bottom: 40px;
   font-weight:bold;
+  size:40px;
   margin-left: 200px;
+
+
 }
-
-/**********************************
-            Textos
-**********************************/
-
-.footer-text2 h2 {
-  font-weight:bolder;
-  text-align: center;
-  margin-bottom: 30px;
-}
-
-.footer-text3 h3 {
-  font-weight: bold;
-  text-align: center;
-}
-
-.text5 h12 {
-  margin-top: 200px;
-  margin-left: 40px;
-  font-size: 70px;
-  font-family: barca;
-  color: rgb(71, 71, 71);
-  position: relative;
-}
-
-/**********************************
-      Icone Twitter
-**********************************/
 
 .icon.social1 .box img {
-  margin-top: -10px;
-  margin-bottom: -250px;
-  margin-left: 750px;
-  padding: 1px 1px;
-  width: 5%;
-
+  margin-top:20px;
+  margin-bottom: 40px;
+  size:40px;
+  margin-left: 600px;
 }
-
-/**********************************
-      Icone Instagram
-**********************************/
 
 .icon.social2 .box img {
-  margin-top: -30px;
-  margin-bottom: -240px;
+  margin-top: -200px;
+  margin-bottom: 40px;
+  size:40px;
   margin-left: 900px;
-  padding: 1px 1px;
-  width: 5%;
-
 }
 
-/**********************************
-      Icone Facebook
-**********************************/
 
 .icon.social3 .box img {
-  margin-top: -80px;
-  margin-bottom: -250px;
-  margin-left: 1050px;
-  padding: 1px 1px;
-  width: 5%;
-
-}
-
-/**********************************
-          CopyRights
-**********************************/
-
-.copyrig h4 {
-  font-size: 15px;
-  text-align: center;
-  margin-bottom: 0px;
-  margin-top: 0px;
-  width: 100%;
-  bottom: 0px;
-  position: absolute;
+  margin-top: -250px;
+  margin-bottom: 40px;
+  size: 40px;
+  margin-left: 1200px;
 }
