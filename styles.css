@@ -443,21 +443,21 @@ header.sticky ul li a
 }
 
 .container.Lorem2 {
-  top: 2387px;
-  left: 0px;
+  top: 2750px;
+  left: 626px;
   position: absolute;
 }
 
 .container.Lorem2 .box img {
-  width: 1140px;
+  width: 1240px;
   top: 0;
   left: 0;
   height: 100%;
-  margin-left: 424px;
+  margin-left: 0;
 }
 
 .container.Lorem2 .box {
-  clip-path: polygon(35% 0, 100% 0, 100% 90%, 35% 90%);
+  clip-path: polygon(0% 0%, 100% 0, 100% 90%, 0% 90%);
   z-index: 2;
 }
 
@@ -491,16 +491,17 @@ header.sticky ul li a
 }
 
 .container.Lorem2 .box .content h2 {
-  margin-bottom: 70px;
-  margin-left: 370px;
+  margin-bottom: 100px;
+  margin-left: -110px;
   font-size: 70px;
   text-align: center;
-  width: 930px;
+  width: 1230px;
 }
 
+
 .container.ipsum2 {
-  top: 2612px;
-  left: -356px;
+  top: 2750px;
+  left: -230px;
   position: absolute;
   width: 42%;
 }
@@ -525,8 +526,8 @@ header.sticky ul li a
 }
 
 .container.dolor2 {
-  top: 2835px;
-  left: -356px;
+  top: 3088px;
+  left: -230px;
   position: absolute;
 }
 
@@ -550,8 +551,8 @@ header.sticky ul li a
 }
 
 .container.wrapper2 {
-  top: 3066px;
-  left: -356px;
+  top: 3421px;
+  left: -230px;
   position: absolute;
 }
 
@@ -575,7 +576,7 @@ header.sticky ul li a
 }
 
 .container.naturis2 {
-  top: 3066px;
+  top: 3421px;
   left: 460px;
   position: absolute;
 }
@@ -600,7 +601,7 @@ header.sticky ul li a
 }
 
 .container.sammy2 {
-  top: 3066px;
+  top: 3421px;
   left: 1065px;
   position: absolute;
 }
