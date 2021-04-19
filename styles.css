@@ -306,7 +306,7 @@ header.sticky ul li a
 
 .container.ipsum .box .content h2 {
   margin-bottom: 50px;
-  margin-left: 230px;
+  margin-left: 232px;
   font-size: 35px;
   text-align: center;
 }
@@ -341,7 +341,8 @@ header.sticky ul li a
   top: 1960px;
   left: -228px;
   position: absolute;
-}
+  width: 48%;
+} 
 
 .container.wrapper .box {
   clip-path: polygon(0% 0%, 100% 0, 100% 79%, 0% 79%);
@@ -367,6 +368,7 @@ header.sticky ul li a
   top: 1960px;
   left: 460px;
   position: absolute;
+  width: 42%;
 }
 
 .container.naturis .box {
@@ -530,6 +532,7 @@ header.sticky ul li a
   top: 3088px;
   left: -230px;
   position: absolute;
+  width: 42%;
 }
 
 .container.dolor2 .box {
@@ -555,6 +558,7 @@ header.sticky ul li a
   top: 3421px;
   left: 378px;
   position: absolute;
+  width: 48%;
 }
 
 .container.wrapper2 .box {
@@ -581,6 +585,7 @@ header.sticky ul li a
   top: 3421px;
   left: -230px;
   position: absolute;
+  width: 42%;
 }
 
 .container.naturis2 .box {
@@ -606,6 +611,7 @@ header.sticky ul li a
   top: 3421px;
   left: 1065px;
   position: absolute;
+  width: 42%;
 }
 
 .container.sammy2 .box {
